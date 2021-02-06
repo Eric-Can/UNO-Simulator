@@ -4,4 +4,4 @@
 
 -	Implements object-oriented paradigms such as inheritance and utilizes a circular doubly linked list data structure to represent turns between players
 
--sample output from a simulated game is stored in the "sampleOutput" file
+- sample output from a simulated game is stored in the "sampleOutput" file
